@@ -1,6 +1,4 @@
 # iot-realtime-monitoring-kafka
-Claro, aquí tienes una versión más limpia y profesional de la descripción para tu repositorio en GitHub, sin emojis ni divisores:
-
 ---
 
 # Sistema de Monitoreo IoT en Tiempo Real con Apache Kafka, InfluxDB y Grafana
